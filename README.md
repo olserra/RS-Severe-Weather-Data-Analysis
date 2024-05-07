@@ -1,5 +1,5 @@
-# Rio Grande do Sul Severe Weather Data Analysis
-This open-source repository aims to gather and analyze data related to severe weather events in Rio Grande do Sul (RS), Brazil. The recent intense rains have significantly impacted numerous municipalities in the state, highlighting the importance of understanding historical weather patterns, infrastructure vulnerabilities, and emergency response strategies to mitigate future risks.
+# SOS Disaster
+This open-source repository aims to help cities in disasters, leveraging technology, and AI, such as gathering and analyzing data related to severe weather events in Rio Grande do Sul (RS), Brazil, for instance. The recent intense rains have significantly impacted numerous municipalities in the state, highlighting the importance of understanding historical weather patterns, infrastructure vulnerabilities, and emergency response strategies to mitigate future risks.
 
 ## Objectives
 The primary objectives of this repository are:
